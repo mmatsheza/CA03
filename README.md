@@ -1,1 +1,3 @@
-# CA03
+# Computer Assignment 3: Decision Tree Algorithms
+
+This is a machine learning exercise that involves building a decision tree algorithm for a dataset containing salaries of people along with seven demographic variables. The dataset contains 48,842 rows and 7 columns. The objective is to classify the data into two categories of income based on the demographic variables. Before building the model, the data quality of the dataset is analyzed for missing values, outliers, and NaNs, and the necessary data cleansing and transformation is performed. The decision tree classifier model is built using the DecisionTreeClassifier algorithm from scikit learn. The decision tree's performance is evaluated by calculating the confusion matrix, accuracy, precision, recall, and F1 score. The decision tree's hyper-parameters are varied, and the performance is compared to determine the best-performing tree with respect to accuracy.
