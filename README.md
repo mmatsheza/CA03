@@ -7,19 +7,19 @@ This is a machine learning exercise that involves building a decision tree algor
 
 ### Packages installed:
 
-pandas
-numpy
-matplotlib
-scikit-learn
+* pandas
+* numpy
+* matplotlib
+* scikit-learn
 
 ### Packages imported:
 
-pandas as pd
-numpy as np
-matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+* pandas as pd
+* numpy as np
+* matplotlib.pyplot as plt
+* from sklearn.model_selection import train_test_split
+* from sklearn.tree import DecisionTreeClassifier
+* from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
 ## Observations of Best Decision Tree
 
