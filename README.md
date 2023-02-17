@@ -31,3 +31,4 @@ The F1-score for the '0' class is high at 0.90, indicating that the model has a 
 
 ## Insights from the Decision Tree
 
+The msr_bin_encoded was used as the root note. From it _capital_gl_ and education were chosen as the next nodes. The Gini impurity indicates that both nodes are impure reflected in 0.124 and 0.495 for the first two nodes that branch off: the capital_gl and education_bn nodes.
